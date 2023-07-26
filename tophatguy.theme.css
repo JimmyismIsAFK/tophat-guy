@@ -1,0 +1,33 @@
+/**
+ * @name Tophatguy
+ * @version 8.0
+ * @description tophat guy (real)
+ * @author jimmyism
+ * @invite PZdnCVD
+ * @source frick you no source lmao
+ * @Discord jimmyism
+ * @BDEditor Neutron
+*/
+
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/7iK76Hw.png');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.75;
+  --homeImage: url('https://i.imgur.com/XiCB9NF.gif');
+  --homeImageSize: contain;
+  --themeColor1: #000000;
+  --themeColor2: #FFFFFF;
+  --customFont: PhantomMuff 1.5 Regular;
+  --backgroundCode: rgb(0,0,0,0.5);
+  --backgroundName: rgb(0,0,0,0.5);
+}
+
+/* Any custom CSS below here */
+
+

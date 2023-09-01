@@ -1,0 +1,33 @@
+/**
+ * @name deltarune
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/qsVkMT9.png');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 1;
+  --homeImage: url('https://i.imgur.com/fWcKMmE.png');
+  --homeImageSize: contain;
+  --themeColor1: #000000;
+  --themeColor2: #00E2FF;
+  --customFont: undertale-deltarune-text-font-extended;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
+}
+
+/* Any custom CSS below here */
+
+
